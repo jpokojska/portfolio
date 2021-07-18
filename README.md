@@ -2,6 +2,7 @@
 It's my tester's portfolio. Enjoy!
 
 # About me
+My name is Joanna Pokojska. I am  currently a 5th semester Computer Science student. I am interested in software testing. For that reason I created this site. Here are all the informations about my learning of testing.
 
 # Tools
 
