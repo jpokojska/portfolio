@@ -27,5 +27,5 @@ My name is Joanna Pokojska. I am  currently a 5th semester Computer Science stud
 
 # Others
  * Books
-  Zostań testerem
+    * Zostań testerem
  * Blogs
