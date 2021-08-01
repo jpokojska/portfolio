@@ -33,7 +33,7 @@ My name is Joanna Pokojska. I am  currently a 5th semester Computer Science stud
 
 # Others
  * Books
-    * Zostań testerem
+    * [Zawód tester](https://lubimyczytac.pl/ksiazka/291227/zawod-tester)
  * Blogs
     * https://juniorlearnstocode.blogspot.com/
     * https://pwicherski.gitbook.io/testowanie-oprogramowania/
