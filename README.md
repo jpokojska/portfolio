@@ -23,7 +23,7 @@ My name is Joanna Pokojska. I am  currently a 5th semester Computer Science stud
  * ISTQB Certified Tester Foundation Level 
  
 # My Projects & Documentation
- *** Mindmap **
+ * ** Mindmap **
 
 
 # Others
