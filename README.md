@@ -1,5 +1,5 @@
 # portfolio
-It's my tester's portfolio. Enjoy!
+It's my tester's portfolio. It's still in progress. Enjoy!
 
 # About me
 My name is Joanna Pokojska. I am  currently a 5th semester Computer Science student. I am interested in software testing. For that reason I created this site. Here are all the informations about my learning of testing.
@@ -11,9 +11,10 @@ My name is Joanna Pokojska. I am  currently a 5th semester Computer Science stud
  * Windows
  * Excel
  * Trello
- * Python - in progress
- * Postman - in progress
  * Selenium - in progres
+ * Python - want to learn in a near future
+ * Postman - want to learn in a near future
+ 
 
 # Education & Courses
  * Higher Education, faculty: computer science, data analysis (extramurally) 2019 - currently
@@ -34,3 +35,5 @@ My name is Joanna Pokojska. I am  currently a 5th semester Computer Science stud
  * Books
     * Zostań testerem
  * Blogs
+    * https://juniorlearnstocode.blogspot.com/
+    * https://pwicherski.gitbook.io/testowanie-oprogramowania/
